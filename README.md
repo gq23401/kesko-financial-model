@@ -150,6 +150,8 @@ kesko-financial-model/
 
 This model was built as part of my portfolio demonstrating financial modeling capabilities. I'm a CFA candidate with a background in software engineering, combining quantitative finance skills with technical expertise.
 
+Model structure developed with AI assistance; assumptions, methodology, and validation performed independently.
+
 **Contact:** [GitHub @gq23401](https://github.com/gq23401)
 
 ---
